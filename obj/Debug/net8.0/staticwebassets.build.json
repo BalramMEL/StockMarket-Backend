@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "M9I3CFmwWuS5vs/csqPpZwbTHPCNx1xJCsQtc/ocosk=",
+  "Source": "web-api",
+  "BasePath": "_content/web-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
